@@ -16,8 +16,6 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 > Understood the importance of pulling into main before pushing to the remote repo to make sure that any merge conflicts are happening on your local machine.
 
-![[Screenshot 2024-09-13 at 21.10.21.png]]
-
 ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 
 > **This week was not too strenuous in terms of learning outcomes.**
@@ -28,8 +26,6 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 > This is something that I neglected to do in this project and, while it didn't lead to catastrophe, it will someday!!!
 
-![[Screenshot 2024-09-13 at 21.12.04.png]]
-
 ## Feedback (For CF's)
 
 > [**Course Facilitator name**]
@@ -37,4 +33,3 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 > [*What went well*]
 
 > [*Even better if*]
-
