@@ -34,8 +34,8 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 [*What went well*]
 
-Creating good habits on git workflow may be the most important outcome for this week, and looks like you got it.
+Creating good habits on git workflow may be the most important outcome for this week, and looks like you got it. It also looks like you have good basics regarding async code. No worries if you feel like you still don't master promises. Whenever you start working on real projects you will find them and just understanding them will be enough. If you create your own code you still can choose whatever feels better for you.
 
 [*Even better if*]
 
-Add more topics. You gave a great talk to the cohort about how you organised your CSS. You also showed a lot of interest in Ben's presentation regarding his approach to the concurrency workshops. We know that you keep your own Obsidian record of your learnings, so feel free to paste here some of the stuff you have there. You don't need to go too deep, just one line per topic with a short code snippet is more than enough.
+You could add a few one-liners for specific topics, like the technical struggles you had in your project. A short description with a code snippet is very effective.
