@@ -28,8 +28,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]
+ [**Course Facilitator name**]
 
-> [*What went well*]
+ Alexander
 
-> [*Even better if*]
+[*What went well*]
+
+Creating good habits on git workflow may be the most important outcome for this week, and looks like you got it.
+
+[*Even better if*]
+
+Add more topics. You gave a great talk to the cohort about how you organised your CSS. You also showed a lot of interest in Ben's presentation regarding his approach to the concurrency workshops. We know that you keep your own Obsidian record of your learnings, so feel free to paste here some of the stuff you have there. You don't need to go too deep, just one line per topic with a short code snippet is more than enough.
