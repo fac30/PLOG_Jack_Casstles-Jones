@@ -90,6 +90,14 @@ app.listen(PORT, () => {
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent. I like the short snippets that get straight to the point. You covered most of the important topics that were introduced this week.
+
 > [*Even better if*]
+
+Would be good to add some testing-related content as well as a bit of the project planning.
