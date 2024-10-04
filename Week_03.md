@@ -98,6 +98,14 @@ app.get("/question", async (req: any, res: any) => {
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good code snippets, they explain perfectly the topics you are introducing. It is also great to see what you are struggling with and what you would like to incorporate into your project.
+
 > [*Even better if*]
+
+Not much to improve to be honest. I would just add a screenshot of an Insomnia workflow and even a picture taken of your diagram, even if it's a low res taken from your phone. But to be honest, it is quite detailed as it is.
