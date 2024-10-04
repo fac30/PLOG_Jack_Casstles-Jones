@@ -1,4 +1,4 @@
-## Guidance!
+## Guidance
 
 Answer the following questions considering the learning outcomes for
 
