@@ -154,6 +154,14 @@ const checkAnswer = () => {
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very good PLog Jack, your learnings are very well explained and the code snippets very clear. 
+
 > [*Even better if*]
+
+You could make your code snippets a bit shorter, there is no need to keep the integrity of whole functions, you can edit those to make the snippets more concise
