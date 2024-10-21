@@ -97,6 +97,10 @@ const Card = ({ tutor }: CardProps) => {
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+ 
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+You PLog explains quite well your journey with SQL, and so far looks great. I also like how you solidified your learnings on React. Well done
