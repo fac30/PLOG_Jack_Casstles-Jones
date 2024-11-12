@@ -18,6 +18,6 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+> Alexander
+
