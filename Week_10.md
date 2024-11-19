@@ -81,6 +81,14 @@ builder.Services.AddCors(options =>
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Clear implementation of C# models and Minimal API endpoints. Successfully connected React frontend with .NET backend and documented with Swagger.
+
 > [*Even better if*]
+
+Explain what specifically confuses you about .NET's abstraction level - the code example shows CORS and DB setup but doesn't highlight your struggles. Detail what PostgreSQL installation issues you faced for better learning documentation.
