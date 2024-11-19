@@ -58,8 +58,14 @@ passport.use(
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**] > [*What went well*] > [*Even better if*]
+> [**Course Facilitator name**] >
 
-```
+Alexander
 
-```
+>  [*What went well*]
+
+Basic React Router implementation shown with multiple routes.
+
+> [*Even better if*]
+
+Code snippets are too basic and lack context - show how you actually used these features. Authentication section needs examples of actual implementation, error handling, and user flow. Overall, provide more detail about your learning process and challenges faced.
