@@ -68,6 +68,14 @@ I definitely need to explore testing more!!!
 
 ## Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good practical examples of deployment across different platforms (Render, AWS CDK). Creative solution using Google Sheets as a database alternative to avoid Supabase timeout issues.
+
 > [*Even better if*]
+
+Show implementation details of how you handled Render's server spin-down issue.
